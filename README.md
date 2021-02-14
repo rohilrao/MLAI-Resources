@@ -10,3 +10,11 @@
 <li>L2/L1 Reg. as a gaussian/laplacian prior (https://bjlkeng.github.io/posts/probabilistic-interpretation-of-regularization/#id4) </li>
   
 </ul>
+
+
+<H3> Side Notes </H3>
+
+<ul> 
+  <li> https://j2kun.svbtle.com/mathematicians-are-chronically-lost-and-confused </li>
+  
+ </ul>
